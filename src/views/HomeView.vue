@@ -7,7 +7,7 @@
         <i class="fa fa-magnifying-glass abs"></i>
       </div>
     </div>
-    {{ text }}
+    <p @click="addChisla()">{{ text }}</p>
     <div class="container mx-auto">
       <div class="flex flex-wrap justify-between">
         <div class="w-1/5" v-for="photo of images.results" :key="photo.id">
@@ -40,7 +40,15 @@ export default {
       let full_query = this.url + "/search/photos?query={" + this.search + "}&client_id=" + this.client_id;
       let res = await axios.get(full_query);
       this.images = res.data
-    }
+    },
+    // addChisla() {
+    //   for (let odd = 2; odd <= 15; odd++) {
+    //   if (odd % 2 == 0) {
+    //     console.log(odd);
+    //   }
+    // }
+    // }
   },
+  
 };
 </script>
