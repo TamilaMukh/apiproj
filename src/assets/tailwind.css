@@ -1,0 +1,28 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+.abs {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 1rem;
+}
+
+.bg-set {
+    background: url('./bg.png');
+    background-size: cover;
+}
+
+.set-absolute {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 50%;
+    filter: grayscale(100%);
+    z-index: -1;
+}

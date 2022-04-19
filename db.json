@@ -1,0 +1,52 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "author": "Vincent van Gogh",
+            "username": "@vincentvangogh",
+            "photo": "https://cdn.britannica.com/78/43678-050-F4DC8D93/Starry-Night-canvas-Vincent-van-Gogh-New-1889.jpg"
+        },
+        {
+            "id": 2,
+            "author": "Vincent van Gogh",
+            "username": "@vincentvangogh",
+            "photo": "https://cdn.britannica.com/78/43678-050-F4DC8D93/Starry-Night-canvas-Vincent-van-Gogh-New-1889.jpg"
+        },
+        {
+            "id": 3,
+            "author": "Vincent van Gogh",
+            "username": "@vincentvangogh",
+            "photo": "https://cdn.britannica.com/78/43678-050-F4DC8D93/Starry-Night-canvas-Vincent-van-Gogh-New-1889.jpg"
+        },
+        {
+            "id": 4,
+            "author": "Vincent van Gogh",
+            "username": "@vincentvangogh",
+            "photo": "https://cdn.britannica.com/78/43678-050-F4DC8D93/Starry-Night-canvas-Vincent-van-Gogh-New-1889.jpg"
+        },
+        {
+            "id": 5,
+            "author": "Vincent van Gogh",
+            "username": "@vincentvangogh",
+            "photo": "https://cdn.britannica.com/78/43678-050-F4DC8D93/Starry-Night-canvas-Vincent-van-Gogh-New-1889.jpg"
+        },
+        {
+            "id": 6,
+            "author": "Vincent van Gogh",
+            "username": "@vincentvangogh",
+            "photo": "https://cdn.britannica.com/78/43678-050-F4DC8D93/Starry-Night-canvas-Vincent-van-Gogh-New-1889.jpg"
+        },
+        {
+            "id": 7,
+            "author": "Vincent van Gogh",
+            "username": "@vincentvangogh",
+            "photo": "https://cdn.britannica.com/78/43678-050-F4DC8D93/Starry-Night-canvas-Vincent-van-Gogh-New-1889.jpg"
+        },
+        {
+            "id": 8,
+            "author": "Vincent van Gogh",
+            "username": "@vincentvangogh",
+            "photo": "https://cdn.britannica.com/78/43678-050-F4DC8D93/Starry-Night-canvas-Vincent-van-Gogh-New-1889.jpg"
+        }
+    ]
+}
